@@ -95,7 +95,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "cn-heavy/xhv",
             "coin": null,
             "url": "pool.hashvault.pro:7777",
             "user": "hvxxvZH3Gd7SygaC4JxTSU2SYcti9bDpFP9FjVhHGbdbEoe7TMQmT6C9XXsHTBqXzCErxWVLAuWDqYdHmzhUNYjt6JEZpt2ztH",
